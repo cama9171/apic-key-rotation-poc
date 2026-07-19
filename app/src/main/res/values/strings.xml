@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AirWatchPoC</string>
+    <string name="status_waiting">Tap Check SDK to run the AirWatch SDK smoke test.</string>
+</resources>

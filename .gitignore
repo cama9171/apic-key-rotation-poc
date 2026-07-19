@@ -1,0 +1,59 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# IntelliJ / Android Studio
+*.iml
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Kotlin
+.kotlin/
+
+# Local configuration
+local.properties
+
+# Native build
+.externalNativeBuild/
+.cxx/
+
+# Android Studio
+captures/
+
+# Temporary folders
+.tmp/
+.tmp-aar/
+.tmp-aar-classes/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Signing keys
+*.jks
+*.keystore
+*.p12
