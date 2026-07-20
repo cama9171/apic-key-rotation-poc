@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<restrictions xmlns:android="http://schemas.android.com/apk/res/android">
+    <restriction
+        android:key="apigee_cred"
+        android:title="@string/apigee_cred_title"
+        android:description="@string/apigee_cred_desc"
+        android:restrictionType="string" />
+</restrictions>
