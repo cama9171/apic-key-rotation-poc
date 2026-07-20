@@ -14,8 +14,8 @@ android {
         applicationId = "com.example.airwatchpoc"
         minSdk = 26
         targetSdk = 36
-        versionCode = 3
-        versionName = "2.2"
+        versionCode = 4
+        versionName = "4.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
